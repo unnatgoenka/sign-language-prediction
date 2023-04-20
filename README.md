@@ -1,5 +1,5 @@
 # sign-language-prediction
-# Welcome to our ASL Predictor web application! 
+# Welcome to the ASL Predictor web application! 
 ## Webapp that uses Machine Learning to predict the sign language based on an image the user uploads or clicks from their webcam
 
 The dataset used in this study is the Sign Language MNIST, which is a modified version of the classic MNIST dataset. This dataset contains images of American Sign Language (ASL) hand gestures, with each image representing one of the 26 letters of the alphabet (excluding J and Z due to gesture motions). ASL is a complete and natural language primarily used by deaf and hard-of-hearing individuals in North America.
